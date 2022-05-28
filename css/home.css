@@ -1,0 +1,138 @@
+.home__quote {
+  margin-top: 83px;
+  text-align: center;
+}
+.home__q {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 44px;
+  quotes: none;
+  color: #14274a;
+}
+
+.home__first {
+  display: flex;
+}
+
+.first__info {
+  margin-top: 180px;
+  position: relative;
+  margin-left: 50px;
+}
+
+.first__title::before {
+  position: absolute;
+  content: "";
+  height: 360px;
+  width: 2px;
+  background: #14274a;
+  left: -5%;
+}
+
+.first__title {
+  font-family: Adobe Garamond Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 72px;
+  color: #14274a;
+  margin: 0px;
+}
+
+.first__p {
+  width: 542px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 40px;
+  color: #14274a;
+  margin: 0px;
+  padding-top: 25px;
+}
+
+.first__btn {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  background: #e0b973;
+  border: none;
+  border-radius: 5px;
+  padding: 18px 41px;
+  margin-top: 38px;
+  cursor: pointer;
+}
+
+.first__img {
+  margin-top: 97px;
+  margin-left: 116px;
+}
+
+.home__second {
+  display: flex;
+}
+
+.second__info {
+  margin-top: 76px;
+  position: relative;
+  margin-left: 50px;
+}
+
+.second__title::before {
+  position: absolute;
+  content: "";
+  height: 480px;
+  width: 2px;
+  background: #14274a;
+  left: -5%;
+}
+
+.second__title {
+  font-family: Adobe Garamond Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 72px;
+  color: #14274a;
+  margin: 0px;
+  width: 400px;
+}
+
+.second__p {
+  width: 542px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 40px;
+  color: #14274a;
+  margin: 0px;
+  padding-top: 25px;
+}
+
+.second__btn {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  background: #e0b973;
+  border: none;
+  border-radius: 5px;
+  padding: 18px 41px;
+  margin-top: 38px;
+  cursor: pointer;
+}
+
+.second__img {
+  margin-top: 65px;
+  margin-left: 116px;
+}
